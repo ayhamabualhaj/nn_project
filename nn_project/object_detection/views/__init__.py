@@ -1,0 +1,2 @@
+from.result_view import result_view
+from.upload_view import upload_view
